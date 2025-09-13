@@ -1,0 +1,51 @@
+# Flutter/Dart/Pub related
+**/.dart_tool/
+**/.packages
+**/.pub/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.generated/
+**/.melos_tool/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android
+**/android/.gradle/
+**/android/local.properties
+**/android/app/google-services.json
+**/android/key.properties
+*.keystore
+*.jks
+
+# iOS/macOS
+**/ios/Pods/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Runner.xcworkspace/
+**/macos/Pods/
+**/macos/Flutter/ephemeral/
+
+# Linux
+**/linux/flutter/ephemeral/
+
+# Windows
+**/windows/flutter/ephemeral/
+
+# Web
+**/web/.dart_tool/
+
+# Generated files
+*.lock
+.metadata
+
+# Symbolication and crash logs
+*.symbols
+*.log
